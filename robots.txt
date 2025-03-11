@@ -1,3 +1,4 @@
 # Teste de cache
 User-agent: *
 Allow: /
+sitemap: https://vitor-luiz.github.io/sitemap.xml
